@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "pregunta": "What is the primary source of coffee beans?",
+      "opciones": ["Bushes", "Trees", "Vines", "Grass"],
+      "respuestaCorrecta": 1
+    },
+    {
+      "id": 2,
+      "pregunta": "Which country is known as the birthplace of coffee?",
+      "opciones": ["Colombia", "Ethiopia", "Brazil", "Vietnam"],
+      "respuestaCorrecta": 1
+    },
+    {
+      "id": 3,
+      "pregunta": "Which coffee brewing method uses pressure to extract coffee flavors?",
+      "opciones": ["Drip brewing", "French press", "Espresso", "Cold brew"],
+      "respuestaCorrecta": 2
+    },
+    {
+      "id": 4,
+      "pregunta": "Which term refers to the process of removing the outer layers of the coffee cherry?",
+      "opciones": ["Roasting", "Grinding", "Fermentation", "Pulping"],
+      "respuestaCorrecta": 3
+    },
+    {
+      "id": 5,
+      "pregunta": "Which of these compounds is responsible for the stimulating effects of coffee?",
+      "opciones": ["Melatonin", "Caffeine", "Serotonin", "Dopamine"],
+      "respuestaCorrecta": 1
+    },
+    {
+      "id": 6,
+      "pregunta": "What type of coffee drink consists of equal parts espresso and steamed milk?",
+      "opciones": ["Americano", "Cappuccino", "Latte", "Mocha"],
+      "respuestaCorrecta": 1
+    },
+    {
+      "id": 7,
+      "pregunta": "Which coffee-growing region is known for producing beans with a distinctive blue-green color?",
+      "opciones": ["Central America", "South America", "Africa", "Asia"],
+      "respuestaCorrecta": 2
+    },
+    {
+      "id": 8,
+      "pregunta": "What is the main difference between Arabica and Robusta coffee beans?",
+      "opciones": ["Arabica is more caffeinated", "Robusta has a smoother flavor", "Arabica grows at higher altitudes", "Robusta is less acidic"],
+      "respuestaCorrecta": 2
+    },
+    {
+      "id": 9,
+      "pregunta": "Which method involves soaking coffee grounds in cold water for an extended period?",
+      "opciones": ["French press", "Pour-over", "Cold brew", "AeroPress"],
+      "respuestaCorrecta": 2
+    },
+    {
+      "id": 10,
+      "pregunta": "Which coffee term describes the scent released when you grind fresh coffee beans?",
+      "opciones": ["Bouquet", "Aroma", "Fragrance", "Scent"],
+      "respuestaCorrecta": 1
+    },
+    {
+      "id": 11,
+      "pregunta": "What is the purpose of \"blooming\" in coffee brewing?",
+      "opciones": ["Adding flavor syrups", "Pouring milk", "Reheating coffee", "Releasing trapped gases"],
+      "respuestaCorrecta": 3
+    },
+    {
+      "id": 12,
+      "pregunta": "Which coffee-growing country is famous for its Peaberry beans?",
+      "opciones": ["Kenya", "Indonesia", "Guatemala", "Peru"],
+      "respuestaCorrecta": 0
+    },
+    {
+      "id": 13,
+      "pregunta": "What is the process called when green coffee beans are exposed to high temperatures and transformed into roasted beans?",
+      "opciones": ["Steaming", "Baking", "Grilling", "Roasting"],
+      "respuestaCorrecta": 3
+    },
+    {
+      "id": 14,
+      "pregunta": "Which type of coffee is brewed by forcing hot water through finely-ground coffee under high pressure?",
+      "opciones": ["Espresso", "Turkish coffee", "Drip coffee", "Instant coffee"],
+      "respuestaCorrecta": 0
+    },
+    {
+      "id": 15,
+      "pregunta": "What is the term for the layer of foam that forms on top of a well-made espresso shot?",
+      "opciones": ["Cream", "Froth", "Crema", "Foam"],
+      "respuestaCorrecta": 2
+    },
+    {
+      "id": 16,
+      "pregunta": "Which type of coffee is made by pouring hot water over coffee grounds and letting it drip through a filter?",
+      "opciones": ["Espresso", "Cold brew", "French press", "Pour-over"],
+      "respuestaCorrecta": 3
+    },
+    {
+      "id": 17,
+      "pregunta": "Which coffee-growing region is known for its fruity and floral flavors in the beans?",
+      "opciones": ["Central America", "South America", "Africa", "Asia"],
+      "respuestaCorrecta": 2
+    },
+    {
+      "id": 18,
+      "pregunta": "What is the main flavor compound found in coffee?",
+      "opciones": ["Citric acid", "Lactic acid", "Chlorogenic acid", "Acetic acid"],
+      "respuestaCorrecta": 2
+    },
+    {
+      "id": 19,
+      "pregunta": "Which country is the largest exporter of coffee in the world?",
+      "opciones": ["Colombia", "Brazil", "Ethiopia", "Vietnam"],
+      "respuestaCorrecta": 1
+    },
+    {
+      "id": 20,
+      "pregunta": "Which method of decaffeination uses water and activated charcoal to remove caffeine?",
+      "opciones": ["Swiss Water Process", "Chemical solvent method", "Carbon dioxide method", "Ethyl acetate method"],
+      "respuestaCorrecta": 0
+    },
+    {
+      "id": 21,
+      "pregunta": "What is the term for the process of evaluating coffee for its flavor, aroma, acidity, body, and aftertaste?",
+      "opciones": ["Tasting", "Brewing", "Grinding", "Cupping"],
+      "respuestaCorrecta": 3
+    },
+    {
+      "id": 22,
+      "pregunta": "What is the name for the tiny hole in an espresso machine's portafilter that controls the flow of brewed coffee?",
+      "opciones": ["Spigot", "Nozzle", "Crevice", "Basket"],
+      "respuestaCorrecta": 3
+    },
+    {
+      "id": 23,
+      "pregunta": "Which coffee drink is known for its layers of espresso, steamed milk, and milk foam?",
+      "opciones": ["Americano", "Flat White", "Macchiato", "Cortado"],
+      "respuestaCorrecta": 1
+    },
+    {
+      "id": 24,
+      "pregunta": "What is the term for the practice of spraying water over coffee grounds to enhance the extraction process?",
+      "opciones": ["Spritzing", "Watering", "Blooming", "Spraying"],
+      "respuestaCorrecta": 2
+    },
+    {
+      "id": 25,
+      "pregunta": "Which coffee term describes beans that have been roasted to a very dark color, often with an oily surface?",
+      "opciones": ["Light roast", "Medium roast", "Dark roast", "Espresso roast"],
+      "respuestaCorrecta": 2
+    }
+  ]
+  
